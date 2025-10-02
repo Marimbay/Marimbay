@@ -3,8 +3,7 @@
 ## 🎓 Education & Coursework
 
 ### Queensland University of Technology (QUT) | Brisbane, Australia
-**Bachelor of Information Technology - Computer Science** | *Current*  
-**Diploma in Information Technology** | *Completed June 2025*
+**Bachelor of Information Technology - Computer Science** 
 
 #### Relevant Coursework
 - **Software Development:** Object-Oriented Programming (C#), Building IT Systems, Microcontrollers and Microprocessors
@@ -115,9 +114,8 @@ AI-powered image recognition application with local server architecture. Full-st
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marimbay)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadirovmarimbay@gmail.com)
 
-📍 **Location:** Kelvin Grove, Brisbane, QLD 4059, Australia  
+📍 **Location:** Brisbane, Australia  
 📧 **Email:** kadirovmarimbay@gmail.com  
-📱 **Phone:** +61 404 178 254
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects!
 

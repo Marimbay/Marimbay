@@ -14,38 +14,6 @@
 
 ---
 
-## 💼 Projects & Experience
-
-### 🤖 AI-Powered Image Recognition App | *May 2025*
-**Founder | Project Lead | Full-Stack Developer**
-
-- Led end-to-end development of a computer vision tool for real-time object identification using state-of-the-art AI models (ResNet50, Hugging Face Transformers)
-- Designed and deployed a secure local AI server architecture using **Python, Flask, PyTorch, and SQLite** for efficient image processing and data storage
-- Managed complete GitHub repository with version control best practices across multiple development branches
-- Directed comprehensive project planning, task delegation, and weekly team meetings to ensure milestone delivery
-- Conducted in-depth research on modern image recognition techniques and integrated cutting-edge tools and libraries
-- **Demo:** [Watch on YouTube](https://youtube.com/shorts/6HNOlb4xO-k)
-- **Source Code:** [GitHub Repository](https://github.com/Marimbay/novenom)
-
----
-
-## 🌟 Leadership & Activities
-
-### Student Success Partner | *July 2025 - Present*
-**Queensland University of Technology**
-
-- Coordinated and ensured smooth execution of **CareerCon 2025** activities in collaboration with Career Development and Employability staff
-- Engaged with students, staff, organizational representatives, and the public to support event objectives and enhance participant experience
-- Contributed to planning discussions and preparation meetings to optimize event operations and logistics
-
-### Student Assistant | *February 2025 - Present*
-**Queensland University of Technology**
-
-- Guided campus tours for new students, providing comprehensive information about university services, facilities, and student life
-- Answered questions and offered support to help ease students' transition to university
-
----
-
 ## 🛠️ Technical Skills
 
 ### Programming Languages
@@ -70,22 +38,6 @@
 - Teamwork & Collaboration
 - Linear Algebra
 - Fast Learner & Adaptable
-
----
-
-## 📚 Featured Repositories
-
-### 🎓 [mit-deep-learning](https://github.com/Marimbay/mit-deep-learning)
-Forked from MIT's Deep Learning course materials. Contains tutorials, assignments, and competitions covering fundamental and advanced deep learning concepts. A comprehensive resource for anyone looking to master deep learning.
-
-### 💜 [supervision](https://github.com/Marimbay/supervision)
-Reusable computer vision tools for building robust CV applications. This repository provides a collection of utilities that simplify common computer vision tasks, making it easier to develop production-ready solutions.
-
-### 📚 [introtodeeplearning](https://github.com/Marimbay/introtodeeplearning)
-Lab materials from MIT 6.S191: Introduction to Deep Learning. Perfect for beginners starting their journey in deep learning.
-
-### 🔍 [novenom](https://github.com/Marimbay/novenom)
-AI-powered image recognition application with local server architecture. Full-stack project showcasing computer vision, deep learning, and software engineering best practices.
 
 ---
 
